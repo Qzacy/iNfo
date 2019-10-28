@@ -1,5 +1,5 @@
 # iNfo
-Instagram Basic informations grabber.
+Instagram basic informations grabber.
 
 ### Requirements
 **Python3**
